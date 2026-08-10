@@ -10,6 +10,7 @@ import {
 } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
 
+
 const Contact2 = () => {
     const navigate = useNavigate();
     const contactRef = useRef(null);
@@ -32,7 +33,7 @@ const Contact2 = () => {
 
         try {
             await axios.post(
-                "http://localhost:2006/api/contact",
+                "https://yomesh-s-portfolio.onrender.com/api/contact",
                 formData
             );
 
