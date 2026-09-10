@@ -130,7 +130,7 @@ const projects = [
     description:
       "DevDocs is a modern document creation and editing web application that allows users to create, organize, and manage their own documents and pages. It provides a clean and responsive interface for writing and editing content, making it easy to create digital notes, documentation, and text-based pages with a simple and user-friendly experience.",
     tech: ["React", "Node.js", "Express.js", "MongoDB", "CSS", "Vercel", "Render"],
-    live: "https://dev-docs-three.vercel.app/",
+    live: "https://dev-docs-taupe.vercel.app/",
     github: "https://github.com/Yomesh15/DevDocs",
   },
   {
