@@ -1,6 +1,6 @@
 import React from "react";
 import { FiGithub, FiExternalLink } from "react-icons/fi";
-import Velora from "../assets/velora.png";
+import devdocs from "../assets/devdocs.png";
 import Project2 from "../assets/project2.png";
 import Convey from "../assets/convey.png";
 import MockMate from "../assets/mockmate.png";
@@ -64,8 +64,8 @@ const projects = [
     github: "https://github.com/Yomesh15/Code-Mate",
   },
   {
-    title: "Velora",
-    image: Velora,
+    title: "DevDocs",
+    image: devdocs,
     description:
       "Velora is a modern MERN-stack ecommerce web application designed to deliver a seamless and stylish online shopping experience. It features responsive UI, secure authentication, product browsing, cart management, and smooth user interactions with a clean and premium design approach.",
     tech: ["React", "Node.js", "CSS", "Vercel", "AOS", "Render"],
