@@ -64,15 +64,6 @@ const projects = [
     github: "https://github.com/Yomesh15/Code-Mate",
   },
   {
-    title: "DevDocs",
-    image: devdocs,
-    description:
-      "Velora is a modern MERN-stack ecommerce web application designed to deliver a seamless and stylish online shopping experience. It features responsive UI, secure authentication, product browsing, cart management, and smooth user interactions with a clean and premium design approach.",
-    tech: ["React", "Node.js", "CSS", "Vercel", "AOS", "Render"],
-    live: "https://velora-self-sigma.vercel.app/",
-    github: "https://github.com/Yomesh15/Velora",
-  },
-  {
     title: "One 5 Store",
     image: One5Store,
     description:
@@ -132,6 +123,15 @@ const projects = [
     ],
     live: "https://one-5-services.vercel.app/",
     github: "https://github.com/Yomesh15/One-5-Services",
+  },
+  {
+    title: "DevDocs",
+    image: devdocs,
+    description:
+      "Velora is a modern MERN-stack ecommerce web application designed to deliver a seamless and stylish online shopping experience. It features responsive UI, secure authentication, product browsing, cart management, and smooth user interactions with a clean and premium design approach.",
+    tech: ["React", "Node.js", "CSS", "Vercel", "AOS", "Render"],
+    live: "https://dev-docs-three.vercel.app/",
+    github: "https://github.com/Yomesh15/DevDocs",
   },
   {
     title: "Convey",
