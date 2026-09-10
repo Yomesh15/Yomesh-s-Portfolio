@@ -128,8 +128,8 @@ const projects = [
     title: "DevDocs",
     image: devdocs,
     description:
-      "Velora is a modern MERN-stack ecommerce web application designed to deliver a seamless and stylish online shopping experience. It features responsive UI, secure authentication, product browsing, cart management, and smooth user interactions with a clean and premium design approach.",
-    tech: ["React", "Node.js", "CSS", "Vercel", "AOS", "Render"],
+      "DevDocs is a modern document creation and editing web application that allows users to create, organize, and manage their own documents and pages. It provides a clean and responsive interface for writing and editing content, making it easy to create digital notes, documentation, and text-based pages with a simple and user-friendly experience.",
+    tech: ["React", "Node.js", "Express.js", "MongoDB", "CSS", "Vercel", "Render"],
     live: "https://dev-docs-three.vercel.app/",
     github: "https://github.com/Yomesh15/DevDocs",
   },
