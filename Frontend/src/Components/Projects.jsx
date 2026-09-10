@@ -10,9 +10,31 @@ import One5Blogs from "../assets/one5blogs.png";
 import One5Store from "../assets/one5store.png";
 import One5Services from "../assets/one5services.png";
 import One5AI from "../assets/one5ai.png";
+import One5Workspace from "../assets/one5workspace.png";
 
 
 const projects = [
+  {
+    title: "One 5 Workspace",
+    image: One5Workspace,
+    description:
+      "One 5 Workspace is a modern team collaboration and task management platform built with the MERN Stack. It enables owners to create workspaces, manage team members, assign tasks, track progress, and review completed work through a clean and professional workspace interface.",
+    tech: [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "Tailwind CSS",
+      "Framer Motion",
+      "REST API",
+      "JWT Authentication",
+      "Vercel",
+      "Render",
+    ],
+    live: "https://one-5-workspace.vercel.app/",
+    github: "https://github.com/Yomesh15/One-5-Workspace",
+  },
   {
     title: "One 5 Jobs",
     image: One5Jobs,
