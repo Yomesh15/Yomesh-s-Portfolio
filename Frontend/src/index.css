@@ -1265,6 +1265,10 @@ svg {
   box-shadow: 0 0 14px rgba(255, 126, 179, 0.9);
 }
 
+body{
+  overflow-x: hidden;
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   .skills-section {
